@@ -30,8 +30,8 @@ This project was given by [BlueOC Entrance Test](https://docs.google.com/documen
 ## The Data Flow 
 1. Store: The current state of the application at a specific time.
 2. View: The state rendered the UI application.
-3. Actions: The UI application gets update actions via the input.
-4. Store: The new state is updated the UI application.
+3. Actions: The UI application gets updated actions via the input.
+4. Store: The new state is updated in the UI application.
 5. Reducers: The reducers calculate the new state value based on the state and action arguments -> Support Redux's scalable and predictable state management
 
 ## Available Commands to Run the Application
@@ -42,3 +42,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+## A picture of completed task
+![Task3_Completed]([https://drive.google.com/file/d/1Wnr18MD049GiQ58aulKqMCeAVDy4nN8s/view?usp=drive_link])
