@@ -1,4 +1,4 @@
-Create a React-Redux Application
+Task 3 - Create a React-Redux Application
 ================================
 
 This project was given by [BlueOC Entrance Test](https://docs.google.com/document/d/1HK-Dye8jrWvFgMTHt24c76igX3yMcYj83CjYQhESUdQ/edit).
