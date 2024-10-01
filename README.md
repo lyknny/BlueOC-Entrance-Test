@@ -44,4 +44,4 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## A picture of completed task
-![Task3_Completed]([https://drive.google.com/file/d/1Wnr18MD049GiQ58aulKqMCeAVDy4nN8s/view?usp=drive_link])
+![Task3_Completed]([src/Screenshot 2024-10-01 233724.png])
